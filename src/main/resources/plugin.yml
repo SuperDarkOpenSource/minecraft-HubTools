@@ -1,0 +1,8 @@
+name: HubTools
+version: 0.1
+description: General tools for the hub world
+api-version: 1.16
+
+authors: [EncryptedData, onnesh, Terminater302]
+
+main: net.superdark.minecraft.plugins.HubTools.HubToolsPlugin
