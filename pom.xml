@@ -13,6 +13,10 @@
             <id>spigot-repo</id>
             <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
         </repository>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/SuperDarkOpenSource/maven-packages</url>
+        </repository>
     </repositories>
 
     <dependencies>
